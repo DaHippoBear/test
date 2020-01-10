@@ -17,7 +17,7 @@ void clearBuffer(){
 char *outputpig[10000];
 int main()
 {
-   char input[1000] = "hello";
+    char input[1000] = "hello";
     int locateSpace = 0;
     int yee = 0;
     int start = 0;
